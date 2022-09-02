@@ -1,1 +1,1 @@
-Create a symbolic link to /bin/ls
+Create a symbolic link
