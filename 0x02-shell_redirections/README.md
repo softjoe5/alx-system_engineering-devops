@@ -1,1 +1,1 @@
-‘Write a command that finds all empty files and directories in the current directory and all sub-directories’
+‘Write a shell script that creates a file named exactly’
