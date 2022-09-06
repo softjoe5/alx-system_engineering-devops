@@ -1,1 +1,1 @@
-‘Create a script that removes all letters’
+‘Write a script that reverse its input’
